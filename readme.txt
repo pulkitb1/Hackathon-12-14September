@@ -1,4 +1,4 @@
-This web app is developed by BtisNBytes team of IIIT Nagpur for Codeflow hackathon (12-14 sept)
+This web app is developed by BitsNBytes team of IIIT Nagpur for Codeflow hackathon (12-14 sept)
 Group-members:
 BT18CSE052-Pulkit Batra
 BT18CSE056-Gopal Pandey
